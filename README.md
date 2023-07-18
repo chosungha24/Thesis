@@ -5,5 +5,5 @@
 
 - GAN으로 기본적인 2차원 data를 학습하는 방법을 알고 싶으면 mode_collap_2DRV 폴더로
 - GAN으로 stochastic process를 푸는 방법을 알고 싶으면 GaussianProcess0.2 폴더로
-- GAN으로 SPDE를 푸는 방법을 알고 싶으면 1D_EllipticSPDE 폴더로
+- GAN으로 SPDE를 푸는 방법을 알고 싶으면 1D_EllipticSPDE 폴더로 (FCN 모델은 20000초 이상이 걸리므로 학습에 주의)
 - 다른 폴더에는 튜토리얼을 추가하지 않을 예정이다. (Timechk_FCPC는 PCN이 FCN에 비해 얼마나 시간을 절약할 수 있는지 확인하는 코드이며, Fully Correlated SODE는 multiple discriminator를 다룬다)
