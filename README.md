@@ -12,7 +12,7 @@ Thesis와 관련된 코드이다. GAN의 기본적인 사용법을 소개하고 
 - Thesis를 봐도 위의 내용은 잘 정리되어 있으나, access가 제한되어있을 수 있다.
 
 ##### 코드
-- GAN으로 기본적인 2차원 data를 학습하는 방법을 알고 싶으면 mode_collap_2DRV/2DRV_GAN.ipynb 파일 참조
-- GAN으로 stochastic process를 푸는 방법을 알고 싶으면 GaussianProcess0.2/GAN_FCN.ipynb, GaussianProcess0.2/WGANSN_FCN.ipynb 파일 참조
-- GAN으로 SPDE를 푸는 방법을 알고 싶으면 Fully Correlated SODE/ODE_SD.ipynb 파일 참조
+- mode_collap_2DRV/2DRV_GAN.ipynb : GAN으로 기본적인 2차원 data를 학습하는 방법을 알고 싶으면 참조
+- GaussianProcess0.2/GAN_FCN.ipynb, GaussianProcess0.2/WGANSN_FCN.ipynb  : GAN으로 stochastic process를 푸는 방법을 알고 싶으면 참조
+- Fully Correlated SODE/ODE_SD.ipynb: GAN으로 SPDE를 푸는 방법을 알고 싶으면 참조
 - Timechk_FCPC는 PCN이 FCN에 비해 얼마나 시간을 절약할 수 있는지 확인하는 코드이며 튜토리얼과 무관하다. EllipticSPDE는 시간이 오래 걸리므로 학습은 하지 않는 것을 추천한다.
