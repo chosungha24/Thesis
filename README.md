@@ -6,7 +6,7 @@ Thesis와 관련된 코드이다. GAN의 기본적인 사용법을 소개하고 
 ##### 논문
 - GAN의 기본은 tutorial paper를 참조 https://arxiv.org/abs/1701.00160
 - WGAN을 알고 싶으면 해당 paper 참조 https://arxiv.org/abs/1701.07875
-  - WGAN만을 사용하면 성능이 좋지 않기 때문에, gradient penalty (https://arxiv.org/abs/1704.00028)를 사용하거나 spectral normalization (https://arxiv.org/abs/1802.05957)을 사용해야한다.
+  - WGAN만을 사용하면 성능이 좋지 않기 때문에, gradient penalty (https://arxiv.org/abs/1704.00028 )를 사용하거나 spectral normalization (https://arxiv.org/abs/1802.05957 )을 사용해야한다.
 - WGANGP(gradient penalty)를 써서 SPDE를 푸는 문제가 알고 싶다면 https://arxiv.org/abs/1811.02033 참조
 - WGANSN(spectral normalization)을 알고 싶다면 https://ieeexplore.ieee.org/document/9989352/ 참조
 - Thesis를 봐도 위의 내용은 잘 정리되어 있으나, access가 제한되어있을 수 있다.
