@@ -7,6 +7,4 @@ Thesis와 관련된 코드이다. GAN의 기본적인 사용법을 소개하고 
 - GAN으로 기본적인 2차원 data를 학습하는 방법을 알고 싶으면 mode_collap_2DRV 폴더의 2DRV_GAN.ipynb 파일 참조
 - GAN으로 stochastic process를 푸는 방법을 알고 싶으면 GaussianProcess0.2 폴더의 GAN_FCN.ipynb & WGANSN_FCN.ipynb 파일 참조
 - GAN으로 SPDE를 푸는 방법을 알고 싶으면 Fully Correlated SODE 폴더의 ODE_SD.ipynb 파일 참조 (20000초 이상이 걸리므로 학습에 주의)
-  - 2만초 이상 시간이 걸리는 것이 싫다면 Elliptic_PCN_SD파일 참조
-  - 비교적 정확한 결과가 갖고 싶다면 Elliptic_FCN_MD 혹은 Elliptic_PCN_MD파일(추천) 참조
 - Timechk_FCPC는 PCN이 FCN에 비해 얼마나 시간을 절약할 수 있는지 확인하는 코드이며, Fully Correlated SODE는 multiple discriminator를 다룬다
